@@ -61,3 +61,6 @@ year = int(input("Enter year of birth: "))
 zodiacSign(year)
 
 
+<img width="966" height="927" alt="image" src="https://github.com/user-attachments/assets/77fb0e80-a4be-4ae8-9d74-7d9a49daffde" />
+
+
