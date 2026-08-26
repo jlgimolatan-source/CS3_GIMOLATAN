@@ -1,5 +1,3 @@
-#A Python program that takes a user's birth year and calculates their Chinese Zodiac sign, along with the traditional Chinese character and personality traits associated with that animal.
-
 def calculations(year):
     remainder = year % 12
     if remainder == 0:
